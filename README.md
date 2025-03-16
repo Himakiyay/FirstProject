@@ -1,2 +1,2 @@
 # FirstProject
-This will be my first project
+This is my first implementation...
